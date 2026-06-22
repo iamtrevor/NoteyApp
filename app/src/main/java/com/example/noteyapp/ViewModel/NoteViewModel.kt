@@ -3,7 +3,6 @@ package com.example.noteyapp.ViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-//import com.example.noteyapp.Model.Repository.NotesRepository
 import com.example.noteyapp.Repository.NotesRepository
 import com.example.noteyapp.RoomDB.Note
 import kotlinx.coroutines.launch
